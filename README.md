@@ -2,8 +2,6 @@
 
 ### 🎓 Cursando Desenvolvimento de Software Multiplataforma na Fatec (2° semestre)
 
-<img align="right" alt="Coding GIF" width="160" src="https://user-images.githubusercontent.com/74038190/238201079-e379a33a-b428-4385-b44f-3da16e7bac9f.gif" />
-
 ### 🎓 Formação
 
 - Técnico em Administração
